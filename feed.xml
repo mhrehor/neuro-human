@@ -1,185 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Michael&#x27;s Life</title>
-    <link href="https://michaelhrehor.com/feed.xml" rel="self" />
-    <link href="https://michaelhrehor.com" />
-    <updated>2021-08-28T16:19:09-07:00</updated>
+    <title>The Neurodivergent Human</title>
+    <link href="https://theneurohuman.com/feed.xml" rel="self" />
+    <link href="https://theneurohuman.com" />
+    <updated>2021-09-05T19:57:03-07:00</updated>
     <author>
-        <name>Michael</name>
+        <name>Neuro Human</name>
     </author>
-    <id>https://michaelhrehor.com</id>
+    <id>https://theneurohuman.com</id>
 
     <entry>
-        <title>Paramyotonia Congenita (PMC)</title>
+        <title>Welcome</title>
         <author>
-            <name>Michael</name>
+            <name>Neuro Human</name>
         </author>
-        <link href="https://michaelhrehor.com/pmc/"/>
-        <id>https://michaelhrehor.com/pmc/</id>
-            <category term="Paramyotonia Congenita"/>
-            <category term="PMC"/>
+        <link href="https://theneurohuman.com/welcome/"/>
+        <id>https://theneurohuman.com/welcome/</id>
 
-        <updated>2021-06-08T22:30:02-07:00</updated>
+        <updated>2021-09-05T19:57:03-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://michaelhrehor.com/media/posts/17/PMC-Featured-Image.png" alt="Forest with light shining through the trees" />
-                    Symptom List Medical Terms Other Names Learn More: HPO ID My Symptoms 30%-79% of people have these symptoms Cold paresis&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>NOD2 Investigation</title>
-        <author>
-            <name>Michael</name>
-        </author>
-        <link href="https://michaelhrehor.com/ibd-blau-yao/"/>
-        <id>https://michaelhrehor.com/ibd-blau-yao/</id>
-            <category term="Yao Syndrome"/>
-            <category term="NOD2"/>
-            <category term="Inflamatory Bowel Disease"/>
-            <category term="IBD"/>
-            <category term="Blau Syndrome"/>
-
-        <updated>2021-06-08T18:02:14-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://michaelhrehor.com/media/posts/12/IBD-Featured-Image.png" alt="River through forest with mountains" />
-                    Diagnostic Criteria Symptom IBD Blau Yao My Symptoms Diarrhea X ✔️ Fatigue X ✔️ Abdominal pain and cramping X ✔️&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Andersen-Tawil Syndrome (ATS)</title>
-        <author>
-            <name>Michael</name>
-        </author>
-        <link href="https://michaelhrehor.com/ats/"/>
-        <id>https://michaelhrehor.com/ats/</id>
-            <category term="Periodic Paralysis"/>
-            <category term="POTS"/>
-            <category term="KCNJ2"/>
-            <category term="Hypermobility"/>
-            <category term="Bradycardia"/>
-            <category term="Andersen-Tawil Syndrome"/>
-
-        <updated>2021-06-08T15:17:57-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://michaelhrehor.com/media/posts/8/ATS-Featured-Image.png" alt="River waterfall and mountains" />
-                    Diagnostic Criteria (from NIH) The diagnosis of Andersen-Tawil syndrome might be suspected in individuals with either:[2] 1. Two of the following three&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>My Autistic Journey</title>
-        <author>
-            <name>Michael</name>
-        </author>
-        <link href="https://michaelhrehor.com/my-autistic-journey/"/>
-        <id>https://michaelhrehor.com/my-autistic-journey/</id>
-            <category term="Recurrent Meningitis"/>
-            <category term="Rare Disease"/>
-            <category term="Periodic Paralysis"/>
-            <category term="PTSD"/>
-            <category term="Mollaret Meningitis"/>
-            <category term="Featured"/>
-            <category term="Everything&#x27;s Gonna Be Okay"/>
-            <category term="Disability"/>
-            <category term="Depression"/>
-            <category term="Blog"/>
-            <category term="Autism"/>
-            <category term="Anxiety"/>
-
-        <updated>2021-08-28T16:19:09-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://michaelhrehor.com/media/posts/5/My-Autistic-Journey-Featured-Image.png" alt="Peaceful lake view" />
-                     Background This is going to be hard for me to write and explain. I have been thinking about this,&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Hello and Welcome!</title>
-        <author>
-            <name>Michael</name>
-        </author>
-        <link href="https://michaelhrehor.com/hello-and-welcome/"/>
-        <id>https://michaelhrehor.com/hello-and-welcome/</id>
-            <category term="TBI"/>
-            <category term="Recurrent Meningitis"/>
-            <category term="Rare Disease"/>
-            <category term="Periodic Paralysis"/>
-            <category term="PTSD"/>
-            <category term="Mollaret Meningitis"/>
-            <category term="Disability"/>
-            <category term="Depression"/>
-            <category term="Blog"/>
-            <category term="Autism"/>
-            <category term="Anxiety"/>
-
-        <updated>2021-06-08T18:06:04-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://michaelhrehor.com/media/posts/6/Hello-and-Welcome-Featured-Image-2.png" alt="San Diego Bay" />
-                    My Life Hello and Welcome (TW/CW Head Injuries, Chronic Illness, Ableism, Trauma, Seizures, Suicide, Paralysis, Dystonia, Medical Trauma) Hi, my&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Health</title>
-        <author>
-            <name>Michael</name>
-        </author>
-        <link href="https://michaelhrehor.com/health/"/>
-        <id>https://michaelhrehor.com/health/</id>
-            <category term="ZNF469"/>
-            <category term="TBI"/>
-            <category term="Spinal Stenosis"/>
-            <category term="Spinal Instability"/>
-            <category term="Recurrent Meningitis"/>
-            <category term="Periodic Paralysis"/>
-            <category term="Paramyotonia Congenita"/>
-            <category term="PTSD"/>
-            <category term="POTS"/>
-            <category term="PLOD1"/>
-            <category term="OCD"/>
-            <category term="NOD2"/>
-            <category term="Mitochondrial Complex III Disorder"/>
-            <category term="Mild Cognitive Disorder"/>
-            <category term="Mast Cell Disorder"/>
-            <category term="MT-CYB"/>
-            <category term="Leigh Syndrome"/>
-            <category term="LRPPRC"/>
-            <category term="KCNJ2"/>
-            <category term="KCNE3"/>
-            <category term="Inflamatory Bowel Disease"/>
-            <category term="Hypermobility"/>
-            <category term="Health"/>
-            <category term="GFPT1"/>
-            <category term="FASTKD2"/>
-            <category term="Ehlers-Danlos Syndrome"/>
-            <category term="Dysautonomia"/>
-            <category term="Double Vision"/>
-            <category term="Depression"/>
-            <category term="DPAGT1"/>
-            <category term="COLQ"/>
-            <category term="COL1A1"/>
-            <category term="Bradycardia"/>
-            <category term="Autism"/>
-            <category term="Anxiety"/>
-            <category term="Andersen-Tawil Syndrome"/>
-            <category term="ADHD"/>
-
-        <updated>2021-06-08T22:30:45-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://michaelhrehor.com/media/posts/3/Health-Featured-Image.png" alt="Ocean with Pier" />
-                     Some diagnosis are official and others are self diagnosed or suspected. This is due to the lack of access&hellip;
+                        <img src="https://theneurohuman.com/media/posts/20/NeuroHuman-Logo-2.png" alt="NeuroHuman Logo" />
+                     Thank you for visiting theneurohuman.com. We are currently working on the site. We hope you come back again once&hellip;
                 ]]>
             </summary>
         <content></content>
