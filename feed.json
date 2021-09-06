@@ -9,19 +9,5 @@
         "name": "Neuro Human"
     },
     "items": [
-        {
-            "id": "https://theneurohuman.com/welcome/",
-            "url": "https://theneurohuman.com/welcome/",
-            "title": "Welcome",
-            "summary": " Thank you for visiting theneurohuman.com. We are currently working on the site. We hope you come back again once&hellip;",
-            "image": "https://theneurohuman.com/media/posts/20/NeuroHuman-Logo-2.png",
-            "author": {
-                "name": "Neuro Human"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-09-05T19:57:03-07:00",
-            "date_modified": "2021-09-05T20:36:28-07:00"
-        }
     ]
 }

@@ -3,27 +3,10 @@
     <title>The Neurodivergent Human</title>
     <link href="https://theneurohuman.com/feed.xml" rel="self" />
     <link href="https://theneurohuman.com" />
-    <updated>2021-09-05T20:36:28-07:00</updated>
+    <updated>1969-12-31T16:00:00-08:00</updated>
     <author>
         <name>Neuro Human</name>
     </author>
     <id>https://theneurohuman.com</id>
 
-    <entry>
-        <title>Welcome</title>
-        <author>
-            <name>Neuro Human</name>
-        </author>
-        <link href="https://theneurohuman.com/welcome/"/>
-        <id>https://theneurohuman.com/welcome/</id>
-
-        <updated>2021-09-05T20:36:28-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://theneurohuman.com/media/posts/20/NeuroHuman-Logo-2.png" alt="NeuroHuman Logo" />
-                     Thank you for visiting theneurohuman.com. We are currently working on the site. We hope you come back again once&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
 </feed>
