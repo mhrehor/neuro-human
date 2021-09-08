@@ -3,10 +3,29 @@
     <title>The Neurodivergent Human</title>
     <link href="https://theneurohuman.com/feed.xml" rel="self" />
     <link href="https://theneurohuman.com" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2021-09-08T10:13:08-07:00</updated>
     <author>
         <name>Neuro Human</name>
     </author>
     <id>https://theneurohuman.com</id>
 
+    <entry>
+        <title>Is ABA Abuse?</title>
+        <author>
+            <name>Neuro Human</name>
+        </author>
+        <link href="https://theneurohuman.com/is-aba-abuse/"/>
+        <id>https://theneurohuman.com/is-aba-abuse/</id>
+            <category term="Autism"/>
+            <category term="ABA"/>
+
+        <updated>2021-09-08T10:13:08-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://theneurohuman.com/media/posts/21/Storm.png" alt="Storm" />
+                    Is Applied Behavior Analysis (ABA) abuse? Yes The following page will provide you with the information to support this stance and please help us #BanABA and stop its use. Parents Guide to ABA Therapy ABA in Skilled Nursing Homes ABA has not changed cPTSD in&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
 </feed>

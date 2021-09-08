@@ -5,9 +5,26 @@
     "home_page_url": "https://theneurohuman.com",
     "feed_url": "https://theneurohuman.com/feed.json",
     "user_comment": "",
+    "icon": "https://theneurohuman.com/media/website/NeuroHuman-Logo-2.png",
     "author": {
         "name": "Neuro Human"
     },
     "items": [
+        {
+            "id": "https://theneurohuman.com/is-aba-abuse/",
+            "url": "https://theneurohuman.com/is-aba-abuse/",
+            "title": "Is ABA Abuse?",
+            "summary": "Is Applied Behavior Analysis (ABA) abuse? Yes The following page will provide you with the information to support this stance and please help us #BanABA and stop its use. Parents Guide to ABA Therapy ABA in Skilled Nursing Homes ABA has not changed cPTSD in&hellip;",
+            "image": "https://theneurohuman.com/media/posts/21/Storm.png",
+            "author": {
+                "name": "Neuro Human"
+            },
+            "tags": [
+                   "Autism",
+                   "ABA"
+            ],
+            "date_published": "2021-09-08T10:07:51-07:00",
+            "date_modified": "2021-09-08T10:13:08-07:00"
+        }
     ]
 }
