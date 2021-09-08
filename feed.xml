@@ -3,7 +3,7 @@
     <title>The Neurodivergent Human</title>
     <link href="https://theneurohuman.com/feed.xml" rel="self" />
     <link href="https://theneurohuman.com" />
-    <updated>2021-09-08T10:13:08-07:00</updated>
+    <updated>2021-09-08T10:21:12-07:00</updated>
     <author>
         <name>Neuro Human</name>
     </author>
@@ -16,10 +16,11 @@
         </author>
         <link href="https://theneurohuman.com/is-aba-abuse/"/>
         <id>https://theneurohuman.com/is-aba-abuse/</id>
+            <category term="Blog"/>
             <category term="Autism"/>
             <category term="ABA"/>
 
-        <updated>2021-09-08T10:13:08-07:00</updated>
+        <updated>2021-09-08T10:21:12-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://theneurohuman.com/media/posts/21/Storm.png" alt="Storm" />
