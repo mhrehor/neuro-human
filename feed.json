@@ -11,6 +11,31 @@
     },
     "items": [
         {
+            "id": "https://theneurohuman.com/am-i-neurodivergent/",
+            "url": "https://theneurohuman.com/am-i-neurodivergent/",
+            "title": "Am I Neurodivergent?",
+            "summary": "Let's start by defining neurodivergence from https://neuroqueer.com/neurodiversity-terms-and-definitions/: \"Neurodivergent, sometimes abbreviated as ND, means having a mind that functions in ways which diverge significantly from the dominant societal standards of “normal.” Neurodivergent is quite a broad term. Neurodivergence (the state of being neurodivergent) can be largely or entirely genetic&hellip;",
+            "image": "https://theneurohuman.com/media/posts/22/Daisies.png",
+            "author": {
+                "name": "Neuro Human"
+            },
+            "tags": [
+                   "TBI",
+                   "PTSD",
+                   "OCD",
+                   "Mild Cognitive Disorder",
+                   "Featured",
+                   "Disability",
+                   "Depression",
+                   "Blog",
+                   "Autism",
+                   "Anxiety",
+                   "ADHD"
+            ],
+            "date_published": "2021-09-11T20:26:36-07:00",
+            "date_modified": "2021-09-11T20:26:36-07:00"
+        },
+        {
             "id": "https://theneurohuman.com/is-aba-abuse/",
             "url": "https://theneurohuman.com/is-aba-abuse/",
             "title": "Is ABA Abuse?",

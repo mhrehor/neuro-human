@@ -3,12 +3,40 @@
     <title>The Neurodivergent Human</title>
     <link href="https://theneurohuman.com/feed.xml" rel="self" />
     <link href="https://theneurohuman.com" />
-    <updated>2021-09-08T10:21:12-07:00</updated>
+    <updated>2021-09-11T20:26:36-07:00</updated>
     <author>
         <name>Neuro Human</name>
     </author>
     <id>https://theneurohuman.com</id>
 
+    <entry>
+        <title>Am I Neurodivergent?</title>
+        <author>
+            <name>Neuro Human</name>
+        </author>
+        <link href="https://theneurohuman.com/am-i-neurodivergent/"/>
+        <id>https://theneurohuman.com/am-i-neurodivergent/</id>
+            <category term="TBI"/>
+            <category term="PTSD"/>
+            <category term="OCD"/>
+            <category term="Mild Cognitive Disorder"/>
+            <category term="Featured"/>
+            <category term="Disability"/>
+            <category term="Depression"/>
+            <category term="Blog"/>
+            <category term="Autism"/>
+            <category term="Anxiety"/>
+            <category term="ADHD"/>
+
+        <updated>2021-09-11T20:26:36-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://theneurohuman.com/media/posts/22/Daisies.png" alt="Daisies" />
+                    Let's start by defining neurodivergence from https://neuroqueer.com/neurodiversity-terms-and-definitions/: "Neurodivergent, sometimes abbreviated as ND, means having a mind that functions in ways which diverge significantly from the dominant societal standards of “normal.” Neurodivergent is quite a broad term. Neurodivergence (the state of being neurodivergent) can be largely or entirely genetic&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Is ABA Abuse?</title>
         <author>
